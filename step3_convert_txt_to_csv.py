@@ -23,7 +23,7 @@ headers = ['meta_country', 'policy_health', 'policy_ehealth', 'policy_his',
            'elearning_students_pharmacy', 'elearning_students_biomedical',
            'elearning_prof_medical', 'elearning_prof_dentistry',
            'elearning_prof_publichealth', 'elearning_prof_nursing',
-           'elearning_prof_parmacy', 'elearning_prof_biomedical',
+           'elearning_prof_pharmacy', 'elearning_prof_biomedical',
            'ehr_national', 'ehr_legislation', 'ehr_primary', 'ehr_secondary',
            'ehr_tertiary', 'ehr_laboratory', 'ehr_pathology', 'ehr_pharmacy',
            'ehr_pacs', 'ehr_vaccinationalerts', 'ehr_billing',
@@ -62,6 +62,7 @@ for filepath in txtfiles:
     filetext = fin.read()
     fin.close()
     filetext = re.sub('/n', '=', filetext)
+    filetext = re.sub('Zero', '0', filetext)
     filetext = re.sub(keepset, ' ', filetext)
     dataset = re.findall(ftemplate, filetext)
     # print("found {}".format(dataset))
