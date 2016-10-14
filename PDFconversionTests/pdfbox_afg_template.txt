@@ -157,4 +157,4 @@ Collecting health information Health system level** Programme type**
 Patient monitoring {}
 Health surveys {}
 Disease surveillance {}
-{}
+LEGEND{}
