@@ -1,0 +1,584 @@
+Afghanistan
+
+*
+t
+x
+e
+
+y
+r
+t
+
+n
+u
+o
+C
+
+t
+
+n
+o
+c
+
+Population (000s)
+GNI per capita (PPP Int $)
+Physician density (per 10 000 population)
+Nurse & midwife density (per 10 000 population)
+Hospital bed density (per 10 000 population)
+
+Life expectancy at birth (years)
+Total health expenditure (% GDP)
+ICT Development Index rank
+
+30,552
+2,000
+0.27
+0.50 Mobile-cellular subscriptions (% population)
+
+4
+
+Internet users (% population)
+
+61
+8.1
+—
+
+60.35
+5.5
+
+1. eHealth foundations
+ National policies or strategies
+
+National universal health coverage policy or strategy
+National eHealth policy or strategy
+National health information system (HIS) policy or strategy
+National telehealth policy or strategy
+Funding sources for eHealth
+
+—
+—
+Yes
+No
+
+75%
+58%
+66%
+22%
+
+N/A
+N/A
+
+‡
+
+N/A
+
+Country response Global "yes" response§
+
+Year adopted
+
+Public funding 
+Private or commercial funding
+Donor/non-public funding
+Public-private partnerships
+Multilingualism in eHealth
+
+Policy or strategy on multilingualism
+Government-supported Internet sites in multiple languages
+eHealth capacity building 
+
+Country response Global "yes" response§
+
+Funding source %**
+
+No
+Yes
+Yes
+—
+
+77%
+40%
+63%
+42%
+
+Zero
+<25%
+50-75%
+
+Zero
+
+Country response Global "yes" response§
+
+Year adopted
+
+No
+Yes
+
+28%
+48%
+
+N/A
+
+Health sciences students – Pre-service training in eHealth 
+Health professionals – In-service training in eHealth
+
+Yes
+Yes
+
+74%
+77%
+
+<25%
+<25%
+
+Country response Global "yes" response§
+
+Proportion**
+
+2. Legal frameworks for eHealth
+
+Policy or legislation – purpose
+Defines medical jurisdiction, liability or reimbursement of eHealth services such 
+as telehealth
+Addresses patient safety and quality of care based on data quality, data 
+transmission standards or clinical competency criteria
+Protects the privacy of personally identifiable data of individuals irrespective of 
+whether it is in paper or digital format
+Protects the privacy of individuals’ health-related data held in electronic 
+format in an EHR
+Governs the sharing of digital data between health professionals in other 
+health services in the same country through the use of an EHR
+Governs the sharing of digital data between health professionals in health 
+services in other countries through the use of an EHR
+Governs the sharing of personal and health data between research entities
+Allows individuals electronic access to their own health-related data when 
+held in an EHR
+Allows individuals to demand their own health-related data be corrected when 
+held in an EHR if it is known to be inaccurate
+Allows individuals to demand the deletion of health-related data from their EHR
+Allows individuals to specify which health-related data from their EHR can be 
+shared with health professionals of their choice
+Governs civil registration and vital statistics
+Governs national identification management systems
+
+Country response Global "yes" response§
+
+No
+
+No
+
+No
+
+No
+
+—
+
+—
+
+No
+
+—
+
+—
+
+—
+
+—
+
+Yes
+—
+
+31%
+
+46%
+
+78%
+
+54%
+
+34%
+
+22%
+
+39%
+
+29%
+
+32%
+
+18%
+
+28%
+
+76%
+65%
+
+WHO Eastern Mediterranean Region
+
+3. Telehealth
+Telehealth programmes country overview
+
+Teleradiology
+Teledermatology
+Telepathology
+Telepsychiatry
+Remote patient monitoring
+
+Health system level**
+
+Programme type**
+
+National
+National
+National
+National
+National
+
+Established
+Established
+
+‡
+
+Established
+Established
+
+4. Electronic Health Records (EHRs)
+EHR country overview
+
+National EHR system 
+Legislation governing the use of the national EHR system
+Health facilities with EHR
+Primary care facilities
+(e.g. clinics and health care centres)
+Secondary care facilities
+(e.g. hospitals, emergency care)
+Tertiary care facilities (e.g. specialized care, referral from 
+primary/secondary care) 
+Other electronic systems
+Laboratory information systems
+Pathology information systems
+Pharmacy information systems 
+PACS 
+Automatic vaccination alerting system
+ICT-assisted functions
+Electronic medical billing systems
+Supply chain management information systems
+Human resources for health information systems
+
+Country response
+
+Year introduced
+
+‡
+‡
+
+Use EHR
+
+N/A
+
+N/A
+
+N/A
+
+‡
+
+Facilities with EHR %**
+
+‡
+
+‡
+
+‡
+
+Country response
+
+Global "yes" response§
+
+N/A
+N/A
+N/A
+N/A
+N/A
+
+35%
+18%
+33%
+26%
+10%
+
+Country response
+
+Global "yes" response§
+
+No
+No
+Yes
+
+58%
+58%
+69%
+
+5. Use of eLearning in health sciences
+eLearning programmes country overview
+
+Health sciences students – Pre-service
+Medicine
+Dentistry
+Public health
+Nursing & midwifery
+Pharmacy
+Biomedical/Life sciences
+Health professionals – In-service
+Medicine
+Dentistry
+Public health
+Nursing & midwifery
+Pharmacy
+Biomedical/Life sciences
+
+Country response
+
+Global "yes" response§
+
+Yes
+Yes
+Yes
+Yes
+No
+No
+
+58%
+39%
+50%
+47%
+38%
+42%
+
+Country response
+
+Global "yes" response§
+
+Yes
+No
+Yes
+Yes
+No
+No
+
+58%
+30%
+47%
+46%
+31%
+34%
+
+6. mHealth
+mHealth programmes country overview
+
+Accessing/providing health services
+Toll-free emergency
+Health call centres 
+Appointment reminders
+Mobile telehealth
+Management of disasters and emergencies
+Treatment adherence 
+Accessing/providing health information 
+Community mobilization 
+Access to information, databases and tools
+Patient records
+mLearning
+Decision support systems
+Collecting health information
+Patient monitoring 
+Health surveys
+Disease surveillance
+
+7. Social media
+
+Afghanistan
+
+Health system level**
+
+Programme type**
+
+‡
+‡
+
+Local
+
+Intermediate
+
+National, Intermediate, Local
+
+National
+
+‡
+‡
+
+Pilot
+
+Informal
+Informal
+
+Pilot
+
+Health system level**
+
+Programme type**
+
+National
+National
+
+‡
+‡
+
+National
+
+Pilot
+
+Established
+
+‡
+‡
+
+Pilot
+
+Health system level**
+
+Programme type**
+
+‡
+‡
+‡
+
+‡
+‡
+‡
+
+Country response Global "yes" response§
+
+—
+
+‡
+
+18%
+
+5%
+
+Social media and health
+National policy or strategy on the use of social media by 
+government organizations
+Policy or strategy makes specific reference to its use in the 
+health domain
+Health care organizations – use of social media
+Promote health messages as a part of health promotion campaigns
+Help manage patient appointments
+Seek feedback on services
+Make general health announcements
+Make emergency announcements
+Individuals and communities – use of social media
+Learn about health issues
+Help decide what health services to use
+Provide feedback to health facilities or health professionals
+Run community-based health campaigns
+Participate in community-based health forums
+
+Year adopted
+
+N/A
+
+Country response Global "yes" response§
+
+Yes
+Yes
+Yes
+Yes
+Yes
+
+78%
+24%
+56%
+72%
+59%
+
+Country response Global "yes" response§
+
+Yes
+—
+Yes
+Yes
+—
+
+79%
+56%
+62%
+62%
+59%
+
+8. Big data
+
+Policy or strategy – purpose
+Governing the use of big data in the health sector
+Governing the use of big data by private companies
+
+Country response Global "yes" response§
+
+Year adopted
+
+Yes
+No
+
+17%
+8%
+
+‡
+
+N/A
+
+LEGEND
+*    Country context indicators  
+ICT Development Index Rank. 2015 - https://www.itu.int/net4/ITU-D/idi/2015/
+All other country indicators. Global Health Observatory. 2012-2014 -  
+http://www.who.int/gho
+**   Glossary 
+§ 
+—  Don’t know
+N/A  Not applicable
+‡ 
+
+Indicates question was unanswered 
+
+Indicates the percentage of participating Member States responding “Yes”
+
+  Question not asked
+
+Zero  No funding
+
+http://www.who.int/goe
+
+International level:  Health entities in different geographic regions
+Regional level: 
+National level: 
+
+Health entities in countries in the same geographic region
+Referral hospitals, laboratories and health institutes (mainly 
+public, but also private)
+
+Intermediate level:  District or provincial facilities: public and private hospitals 
+
+and health centres
+
+Local or peripheral level:  Health posts, health centres providing basic level of care
+Informal:  
+
+Pilot:   
+Established: 
+
+Use of ICT for health purposes in the absence of formal 
+processes and policies
+Testing and evaluating a programme
+An ongoing programme that has been conducted for a 
+minimum of 2 years and is planned to continue 
+
+© 2016 WHO
+
+

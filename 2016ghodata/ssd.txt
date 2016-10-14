@@ -1,0 +1,184 @@
+South Sudan
+C
+o
+u
+n
+tr
+y
+c
+o
+n
+te
+xt
+*
+1. eHealth foundations
+ National policies or strategies
+Country response Global "yes" response§ Year adopted
+National universal health coverage policy or strategy Yes 75% 2012
+National eHealth policy or strategy No 58% N/A
+National health information system (HIS) policy or strategy No 66% N/A
+National telehealth policy or strategy No 22% N/A
+Funding sources for eHealth
+Country response Global "yes" response§ Funding source %**
+Public funding No 77% Zero
+Private or commercial funding No 40% Zero
+Donor/non-public funding Yes 63% <25%
+Public-private partnerships No 42% Zero
+Multilingualism in eHealth
+Country response Global "yes" response§ Year adopted
+Policy or strategy on multilingualism No 28% N/A
+Government-supported Internet sites in multiple languages No 48%
+eHealth capacity building 
+Country response Global "yes" response§ Proportion**
+Health sciences students – Pre-service training in eHealth No 74% N/A
+Health professionals – In-service training in eHealth No 77% N/A
+Population (000s) 11,296 Life expectancy at birth (years) 56
+GNI per capita (PPP Int $) 2,190 Total health expenditure (% GDP) 2.2
+Physician density (per 10 000 population) — ICT Development Index rank —
+Nurse & midwife density (per 10 000 population) — Mobile-cellular subscriptions (% population) 21.22
+Hospital bed density (per 10 000 population) — Internet users (% population) —
+2. Legal frameworks for eHealth
+Policy or legislation – purpose Country response Global "yes" response§
+Defines medical jurisdiction, liability or reimbursement of eHealth services such 
+as telehealth
+No 31%
+Addresses patient safety and quality of care based on data quality, data 
+transmission standards or clinical competency criteria
+No 46%
+Protects the privacy of personally identifiable data of individuals irrespective of 
+whether it is in paper or digital format No 78%
+Protects the privacy of individuals’ health-related data held in electronic 
+format in an EHR No 54%
+Governs the sharing of digital data between health professionals in other 
+health services in the same country through the use of an EHR No 34%
+Governs the sharing of digital data between health professionals in health 
+services in other countries through the use of an EHR No 22%
+Governs the sharing of personal and health data between research entities No 39%
+Allows individuals electronic access to their own health-related data when 
+held in an EHR No 29%
+Allows individuals to demand their own health-related data be corrected when 
+held in an EHR if it is known to be inaccurate No 32%
+Allows individuals to demand the deletion of health-related data from their EHR No 18%
+Allows individuals to specify which health-related data from their EHR can be 
+shared with health professionals of their choice No 28%
+Governs civil registration and vital statistics No 76%
+Governs national identification management systems — 65%
+3. Telehealth
+Telehealth programmes country overview
+Health system level** Programme type**
+Teleradiology ‡ ‡
+Teledermatology ‡ ‡
+Telepathology ‡ ‡
+Telepsychiatry ‡ ‡
+Remote patient monitoring ‡ ‡
+5. Use of eLearning in health sciences
+eLearning programmes country overview
+Health sciences students – Pre-service Country response Global "yes" response§
+Medicine N/A 58%
+Dentistry N/A 39%
+Public health N/A 50%
+Nursing & midwifery N/A 47%
+Pharmacy N/A 38%
+Biomedical/Life sciences N/A 42%
+Health professionals – In-service Country response Global "yes" response§
+Medicine N/A 58%
+Dentistry N/A 30%
+Public health N/A 47%
+Nursing & midwifery N/A 46%
+Pharmacy N/A 31%
+Biomedical/Life sciences N/A 34%
+4. Electronic Health Records (EHRs)
+EHR country overview
+Country response Year introduced
+National EHR system No N/A
+Legislation governing the use of the national EHR system ‡
+Health facilities with EHR Use EHR Facilities with EHR %**
+Primary care facilities
+(e.g. clinics and health care centres)
+N/A ‡
+Secondary care facilities
+(e.g. hospitals, emergency care)
+N/A ‡
+Tertiary care facilities (e.g. specialized care, referral from 
+primary/secondary care) 
+N/A ‡
+Other electronic systems Country response Global "yes" response§
+Laboratory information systems N/A 35%
+Pathology information systems N/A 18%
+Pharmacy information systems N/A 33%
+PACS N/A 26%
+Automatic vaccination alerting system N/A 10%
+ICT-assisted functions Country response Global "yes" response§
+Electronic medical billing systems No 58%
+Supply chain management information systems No 58%
+Human resources for health information systems No 69%
+WHO African Region
+7. Social media
+Social media and health Country response Global "yes" response§ Year adopted
+National policy or strategy on the use of social media by 
+government organizations
+No 18% N/A
+Policy or strategy makes specific reference to its use in the 
+health domain
+‡ 5%
+Health care organizations – use of social media Country response Global "yes" response§
+Promote health messages as a part of health promotion campaigns No 78%
+Help manage patient appointments No 24%
+Seek feedback on services No 56%
+Make general health announcements No 72%
+Make emergency announcements No 59%
+Individuals and communities – use of social media Country response Global "yes" response§
+Learn about health issues No 79%
+Help decide what health services to use No 56%
+Provide feedback to health facilities or health professionals No 62%
+Run community-based health campaigns No 62%
+Participate in community-based health forums No 59%
+8. Big data
+Policy or strategy – purpose Country response Global "yes" response§ Year adopted
+Governing the use of big data in the health sector No 17% N/A
+Governing the use of big data by private companies No 8% N/A
+South Sudan
+6. mHealth
+mHealth programmes country overview
+Accessing/providing health services Health system level** Programme type**
+Toll-free emergency ‡ ‡
+Health call centres Intermediate, Local Pilot
+Appointment reminders ‡ ‡
+Mobile telehealth ‡ ‡
+Management of disasters and emergencies ‡ ‡
+Treatment adherence ‡ ‡
+Accessing/providing health information Health system level** Programme type**
+Community mobilization National, Intermediate, Local Established
+Access to information, databases and tools ‡ ‡
+Patient records ‡ ‡
+mLearning ‡ ‡
+Decision support systems ‡ ‡
+Collecting health information Health system level** Programme type**
+Patient monitoring ‡ ‡
+Health surveys ‡ ‡
+Disease surveillance ‡ ‡
+LEGEND
+*    Country context indicators  
+ICT Development Index Rank. 2015 - https://www.itu.int/net4/ITU-D/idi/2015/
+All other country indicators. Global Health Observatory. 2012-2014 -  
+http://www.who.int/gho
+**   Glossary 
+§ Indicates the percentage of participating Member States responding “Yes”
+— Don’t know
+N/A Not applicable
+‡ Indicates question was unanswered 
+ Question not asked
+Zero No funding
+International level: Health entities in different geographic regions
+Regional level: Health entities in countries in the same geographic region
+National level: Referral hospitals, laboratories and health institutes (mainly 
+public, but also private)
+Intermediate level: District or provincial facilities: public and private hospitals 
+and health centres
+Local or peripheral level:  Health posts, health centres providing basic level of care
+Informal:  Use of ICT for health purposes in the absence of formal 
+processes and policies
+Pilot:  Testing and evaluating a programme
+Established: An ongoing programme that has been conducted for a 
+minimum of 2 years and is planned to continue 
+© 2016 WHOhttp://www.who.int/goe

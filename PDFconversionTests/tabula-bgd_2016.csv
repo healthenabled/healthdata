@@ -1,0 +1,136 @@
+"",Population (000s),"156,595",Life expectancy at birth (years),71
+GNI per capita (PPP Int $),"2,810",Total health expenditure (% GDP),3.7,
+Physician density (per 10 000 population),0.36,ICT Development Index rank,135,
+Nurse & midwife density (per 10 000 population),0.22,Mobile-cellular subscriptions (% population),—,
+Hospital bed density (per 10 000 population),Internet users (% population),,,
+National policies or strategies,,,
+"",Country response,"Global ""yes"" response§",Year adopted
+National universal health coverage policy or strategy,Yes,75%,2012
+National eHealth policy or strategy,Yes,58%,2015
+National health information system (HIS) policy or strategy,Yes,66%,2011
+National telehealth policy or strategy,No,22%,N/A
+Funding sources for eHealth,,,
+"",Country response,"Global ""yes"" response§",Funding source %**
+Public funding,Yes,77%,25-50%
+Private or commercial funding,Yes,40%,25-50%
+Donor/non-public funding,Yes,63%,25-50%
+Public-private partnerships,Yes,42%,<25%
+""
+""
+""
+""
+"",Country response,"Global ""yes"" response§",Year adopted
+National universal health coverage policy or strategy,Yes,75%,2012
+National eHealth policy or strategy,Yes,58%,2015
+National health information system (HIS) policy or strategy,Yes,66%,2011
+National telehealth policy or strategy,No,22%,N/A
+Funding sources for eHealth,,,
+"",Country response,"Global ""yes"" response§",Funding source %**
+Public funding,Yes,77%,25-50%
+Private or commercial funding,Yes,40%,25-50%
+Donor/non-public funding,Yes,63%,25-50%
+Public-private partnerships,Yes,42%,<25%
+Multilingualism in eHealth,,,
+"",Country response,"Global ""yes"" response§",Year adopted
+Policy or strategy on multilingualism,N/A,28%,N/A
+"",Country response,"Global ""yes"" response§",Funding source %**
+Public funding,Yes,77%,25-50%
+Private or commercial funding,Yes,40%,25-50%
+Donor/non-public funding,Yes,63%,25-50%
+Public-private partnerships,Yes,42%,<25%
+Multilingualism in eHealth,,,
+"",Country response,"Global ""yes"" response§",Year adopted
+Policy or strategy on multilingualism,N/A,28%,N/A
+Government-supported Internet sites in multiple languages,Yes,48%,
+eHealth capacity building,,,
+"",Country response,"Global ""yes"" response§",Proportion**
+Health sciences students – Pre-service training in eHealth,Yes,74%,<25%
+"",,
+Policy or legislation – purpose,Country response,"Global ""yes"" response§"
+"Defines medical jurisdiction, liability or reimbursement of eHealth services suchas telehealth",No,31%
+"Addresses patient safety and quality of care based on data quality, datatransmission standards or clinical competency criteria",No,46%
+"Protects the privacy of personally identifiable data of individuals irrespective ofwhether it is in paper or digital format",Yes,78%
+"Protects the privacy of individuals’ health-related data held in electronicformat in an EHR",No,54%
+"Governs the sharing of digital data between health professionals in otherhealth services in the same country through the use of an EHR",No,34%
+"Governs the sharing of digital data between health professionals in healthservices in other countries through the use of an EHR",No,22%
+Governs the sharing of personal and health data between research entities,—,39%
+"Allows individuals electronic access to their own health-related data whenheld in an EHR",No,29%
+"Allows individuals to demand their own health-related data be corrected whenheld in an EHR if it is known to be inaccurate",No,32%
+Allows individuals to demand the deletion of health-related data from their EHR,No,18%
+"Allows individuals to specify which health-related data from their EHR can beshared with health professionals of their choice",No,28%
+Governs civil registration and vital statistics,Yes,76%
+Governs national identification management systems,Yes,65%
+Telehealth programmes country overview,,
+"",Health system level**,Programme type**
+Teleradiology,"Intl, Reg, Nat, Intm","Pilot, Established"
+Teledermatology,"National, Intermediate",Pilot
+Telepathology,"National, Intermediate",Pilot
+Telepsychiatry,"National, Intermediate",‡
+EHR country overview,,
+"",Country response,Year introduced
+National EHR system,No,N/A
+Legislation governing the use of the national EHR system,‡,
+Health facilities with EHR,Use EHR,Facilities with EHR %**
+"Primary care facilities(e.g. clinics and health care centres)",N/A,‡
+"Secondary care facilities(e.g. hospitals, emergency care)",N/A,‡
+"Tertiary care facilities (e.g. specialized care, referral fromprimary/secondary care)",N/A,‡
+Other electronic systems,Country response,"Global ""yes"" response§"
+Laboratory information systems,N/A,35%
+Pathology information systems,N/A,18%
+Pharmacy information systems,N/A,33%
+PACS,N/A,26%
+Automatic vaccination alerting system,N/A,10%
+ICT-assisted functions,Country response,"Global ""yes"" response§"
+Electronic medical billing systems,No,58%
+Supply chain management information systems,Yes,58%
+Human resources for health information systems,Yes,69%
+eLearning programmes country overview,,
+Health sciences students – Pre-service,Country response,"Global ""yes"" response§"
+Medicine,N/A,58%
+Dentistry,N/A,39%
+Public health,N/A,50%
+Nursing & midwifery,N/A,47%
+Pharmacy,N/A,38%
+Biomedical/Life sciences,N/A,42%
+Health professionals – In-service,Country response,"Global ""yes"" response§"
+Medicine,Yes,58%
+Dentistry,No,30%
+Public health,Yes,47%
+Nursing & midwifery,No,46%
+Pharmacy,No,31%
+mHealth programmes country overview,,
+Accessing/providing health services,Health system level**,Programme type**
+Toll-free emergency,‡,‡
+Health call centres,"Reg, Nat, Intm, Loc",Established
+Appointment reminders,"Intermediate, Local",Pilot
+Mobile telehealth,"Reg, Nat, Intm, Loc",Established
+Management of disasters and emergencies,"National, Intermediate, Local",Established
+Treatment adherence,"Reg, Nat, Intm, Loc",Established
+Accessing/providing health information,Health system level**,Programme type**
+Community mobilization,"Reg, Nat, Intm, Loc",Established
+"Access to information, databases and tools","Reg, Nat, Intm, Loc",Established
+Patient records,National,‡
+mLearning,"Reg, Nat, Intm, Loc","Pilot, Established"
+Decision support systems,Local,Established
+Collecting health information,Health system level**,Programme type**
+Patient monitoring,"National, Intermediate, Local",Established
+Health surveys,"Reg, Nat, Intm, Loc",Established
+"",,,
+Social media and health,Country response,"Global ""yes"" response§",Year adopted
+"National policy or strategy on the use of social media bygovernment organizations",Yes,18%,2015
+"Policy or strategy makes specific reference to its use in thehealth domain",No,5%,
+Health care organizations – use of social media,Country response,"Global ""yes"" response§",
+Promote health messages as a part of health promotion campaigns,Yes,78%,
+Help manage patient appointments,—,24%,
+Seek feedback on services,Yes,56%,
+Make general health announcements,Yes,72%,
+Make emergency announcements,Yes,59%,
+Individuals and communities – use of social media,Country response,"Global ""yes"" response§",
+Learn about health issues,Yes,79%,
+Help decide what health services to use,Yes,56%,
+Provide feedback to health facilities or health professionals,Yes,62%,
+Run community-based health campaigns,Yes,62%,
+"",,,
+Policy or strategy – purpose,Country response,"Global ""yes"" response§",Year adopted
+Governing the use of big data in the health sector,No,17%,N/A
+Governing the use of big data by private companies,No,8%,N/A
