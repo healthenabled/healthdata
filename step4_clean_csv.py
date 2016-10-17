@@ -82,7 +82,7 @@ rawcolumns = [['meta_country', '1', ''],
               ['sm_ind_forum', '2', '59'],
               ['policy_bigdata_health', '3', '17'],
               ['policy_bigdata_private', '3', '8'],  # NB text issue
-              ['junk_country', 'junk', ''],
+              ['junk_country', '1', ''],  # junk, but affects neighbouring col
               ['mhealth_tollfree', 'list', ''],
               ['mhealth_callcentre', 'list', ''],
               ['mhealth_appointments', 'list', ''],
@@ -125,39 +125,50 @@ for col in rawcolumns:
         outcols += [col[0]]
         continue
     if col[1] == '2':
-        newcol1 = col[0] + '_0'
+        newcol1 = col[0]
         newcol2 = 'junk'
         coltemplate = template.format(newcol1, col[2], newcol2)
         df[[newcol1, newcol2]] = df[col[0]].str.extract(coltemplate)
-        df.drop(col[0], axis=1, inplace=True)
         outcols += [newcol1]
         continue
     if col[1] == '3':
-        newcol1 = col[0] + '_0'
-        newcol2 = col[0] + '_1'
+        newcol1 = col[0]
+        newcol2 = col[0] + '_note'
         coltemplate = template.format(newcol1, col[2], newcol2)
         df[[newcol1, newcol2]] = df[col[0]].str.extract(coltemplate)
-        df.drop(col[0], axis=1, inplace=True)
         outcols += [newcol1, newcol2]
         continue
     if col[1] == 'yndate':
-        newcol1 = col[0] + '_0'
-        newcol2 = col[0] + '_1'
+        newcol1 = col[0]
+        newcol2 = col[0] + '_note'
         df[[newcol1, newcol2]] = df[col[0]].str.split(' ', expand=True, n=1)
-        df.drop(col[0], axis=1, inplace=True)
         outcols += [newcol1, newcol2]
         continue
     if col[1] == 'list':
-        newcol1 = col[0] + '_0'
-        newcol2 = col[0] + '_1'
+        newcol1 = col[0]
+        newcol2 = col[0] + '_note'
         df[[newcol1, newcol2]] = df[col[0]].str.rsplit(' ', expand=True, n=1)
-        df.drop(col[0], axis=1, inplace=True)
         outcols += [newcol1, newcol2]
         continue
 
 # Remove the junk column that we've been putting column junk into
 df['junk'] = ''
 df.drop('junk', axis=1, inplace=True)
+
+# Clean up the problem column: meta_region
+df['meta_region'] = df['ehr_hr_note'] + ' ' + df['meta_region']
+df.drop('ehr_hr_note', axis=1, inplace=True)
+outcols.remove('ehr_hr_note')
+
+# Clean up the problem column: meta_country
+df['policy_bigdata_private_note'] = df['policy_bigdata_private_note'] + \
+    ' ' + df['junk_country']
+df['policy_bigdata_private_note'] = \
+    [a.replace(b, '') for a, b in
+     zip(df['policy_bigdata_private_note'].astype('str'),
+     df['meta_country'].astype('str'))]
+df.drop('junk_country', axis=1, inplace=True)
+outcols.remove('junk_country')
 
 # Strip out any remaining junk in string columns
 for col in outcols:
