@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-rawcolumns = [['meta_country', '1', ''],
+rawcolumns = [  # ['meta_country', '1', ''],
               ['policy_health', '3', '75'],
               ['policy_ehealth', '3', '58'],
               ['policy_his', '3', '66'],
@@ -105,7 +105,7 @@ rawcolumns = [['meta_country', '1', ''],
 #     coltypes.add(col[1])
 # print('{}'.format(coltypes))
 
-df = pd.read_csv('2016dataset_raw.csv')
+df = pd.read_csv('2016dataset_raw.csv', index_col=0)
 template = '(?P<{}>.*){}(?P<{}>.*)'
 outcols = []
 
@@ -166,7 +166,7 @@ df['policy_bigdata_private_note'] = df['policy_bigdata_private_note'] + \
 df['policy_bigdata_private_note'] = \
     [a.replace(b, '') for a, b in
      zip(df['policy_bigdata_private_note'].astype('str'),
-     df['meta_country'].astype('str'))]
+     df.index.astype('str'))]
 df.drop('junk_country', axis=1, inplace=True)
 outcols.remove('junk_country')
 

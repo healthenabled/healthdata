@@ -42,6 +42,9 @@ for col in dfcats.itertuples():  # ugly code, but gets job done for now
 dfscores.to_csv('2016dataset_scores.csv')
 
 # Add up all those scores, to create summary scores
-
-
-
+dfsummary = pd.DataFrame([], index=dfscores.index)
+for cat in dfcats['Indicator'].unique():
+    catlist = dfcats[dfcats['Indicator'] == cat].index.tolist()
+    dfsummary[cat] = dfscores[catlist].sum(axis=1)
+dfsummary['total'] = dfsummary.sum(axis=1)
+dfsummary.to_csv('2016dataset_summary.csv')
