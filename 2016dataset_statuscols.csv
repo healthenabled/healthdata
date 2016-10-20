@@ -1,0 +1,105 @@
+text,count
+       ,996
+    Established,1
+    Informal,21
+    Informal  Established,1
+    Pilot,6
+All Established,6
+All Informal,1
+All Informal  Established,1
+All Pilot,1
+Intermediate    ,9
+Intermediate  Local Established,4
+Intermediate  Local Informal,5
+Intermediate  Local Informal  Established,1
+Intermediate  Local Informal  Pilot,4
+Intermediate  Local Informal  Pilot  Established,4
+Intermediate  Local Pilot,8
+Intermediate  Local Pilot  Established,8
+Intermediate Established,78
+Intermediate Informal,40
+Intermediate Informal  Pilot,1
+Intermediate Pilot,45
+Intermediate Pilot  Established,1
+International    ,2
+International  Intermediate Established,1
+International  Intermediate Pilot  Established,1
+International  Local Pilot,3
+International  Local Pilot  Established,1
+International  National    ,1
+International  National   Intermediate Established,1
+International  National   Intermediate Informal,3
+International  National  Local Established,2
+International  National Established,9
+International  National Informal,7
+International  National Pilot,2
+International  Regional   National    ,1
+International  Regional   National Established,2
+International  Regional   National Informal,2
+International  Regional   National Pilot  Established,1
+International  Regional Established,1
+International  Regional Informal,1
+International Established,20
+International Informal,5
+International Pilot,10
+Intl  Reg  Intm  Loc Established,1
+Intl  Reg  Nat    ,3
+Intl  Reg  Nat  Intm Established,1
+Intl  Reg  Nat  Intm Pilot  Established,1
+Intl  Reg  Nat  Loc Established,1
+Intl  Reg  Nat Informal,1
+Local    ,9
+Local Established,54
+Local Informal,118
+Local Informal  Pilot,4
+Local Pilot,115
+Local Pilot  Established,3
+National    ,24
+National  Intermediate    ,2
+National  Intermediate  Local Established,25
+National  Intermediate  Local Informal,5
+National  Intermediate  Local Informal  Established,3
+National  Intermediate  Local Informal  Pilot  Established,2
+National  Intermediate  Local Pilot,11
+National  Intermediate  Local Pilot  Established,1
+National  Intermediate Established,20
+National  Intermediate Informal,3
+National  Intermediate Pilot,5
+National  Intermediate Pilot  Established,7
+National  Local    ,1
+National  Local Established,4
+National  Local Pilot,2
+National  Local Pilot  Established,2
+National Established,363
+National Informal,46
+National Informal  Established,1
+National Informal  Pilot,1
+National Pilot,108
+National Pilot  Established,6
+Reg  Nat  Intm  Loc Established,12
+Reg  Nat  Intm  Loc Informal,1
+Reg  Nat  Intm  Loc Informal  Pilot,1
+Reg  Nat  Intm  Loc Pilot,1
+Reg  Nat  Intm  Loc Pilot  Established,3
+Reg  Nat  Intm Established,1
+Reg  Nat  Intm Informal,1
+Regional    ,2
+Regional  Intermediate  Local Established,2
+Regional  Intermediate  Local Informal  Pilot,2
+Regional  Intermediate  Local Pilot  Established,2
+Regional  Intermediate Established,1
+Regional  Intermediate Pilot,1
+Regional  Local    ,1
+Regional  Local Established,3
+Regional  Local Pilot,1
+Regional  Local Pilot  Established,4
+Regional  National    ,3
+Regional  National  Local Established,4
+Regional  National  Local Pilot,2
+Regional  National  Local Pilot  Established,1
+Regional  National Established,10
+Regional  National Informal,5
+Regional Established,17
+Regional Informal,6
+Regional Informal  Pilot  Established,1
+Regional Pilot,16
