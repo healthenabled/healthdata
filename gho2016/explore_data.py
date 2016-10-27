@@ -27,7 +27,7 @@ def explore_raw(rawfile='2016dataset_raw.csv'):
 def get_missing_countries():
     df1 = pd.read_csv('2016ghocountries.csv', header=None,
                       names=['code', 'name'])
-    df2 = pd.read_csv('UNSTATS list of countries.csv')
+    df2 = pd.read_csv('../supporting_data/UNSTATS list of countries.csv')
     v1 = df1['code'].str.lower().values
     v2 = df2['*ISO ALPHA-3* *code*'].str.lower().values
     missingcodes = set(v2) - set(v1)

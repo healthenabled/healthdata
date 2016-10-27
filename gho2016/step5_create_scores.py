@@ -20,18 +20,18 @@ qtrmap = pd.Series({'': 0, '0': 0, '25': 0.25, '25-50': 0.5,
                     '50-75': 0.75, '75': 1})
 for col in dfcats.itertuples():  # ugly code, but gets job done for now
     if col[1] == 'yn':
-        dfscores[col[0]] = np.where(df[col[0]] == 'Yes', 1, 0)
+        dfscores[col[0]] = np.where(df[col[0]] == 'Yes', 1, 0) * col[3]
         continue
     if col[1] == 'qtr':
-        dfscores[col[0]] = df[col[0]].map(qtrmap)
+        dfscores[col[0]] = df[col[0]].map(qtrmap) * col[2]
     if col[1] == 'gislevel':  # FIXIT: give points for having anything!
-        dfscores[col[0]] = np.where(df[col[0]].str.len() > 0, 1, 0)
+        dfscores[col[0]] = np.where(df[col[0]].str.len() > 0, 1, 0) * col[3]
         continue
     if col[1] == 'maturity':  # FIXIT: give points for having anything!
-        dfscores[col[0]] = np.where(df[col[0]].str.len() > 0, 1, 0)
+        dfscores[col[0]] = np.where(df[col[0]].str.len() > 0, 1, 0) * col[3]
         continue
     if col[1] == 'date':  # FIXIT: give points for having anything!
-        dfscores[col[0]] = np.where(df[col[0]].str.len() > 0, 1, 0)
+        dfscores[col[0]] = np.where(df[col[0]].str.len() > 0, 1, 0) * col[3]
         continue
     if col[1] == 'number':  # FIXIT: need to define "good" here
         dfscores[col[0]] = 0
@@ -42,9 +42,13 @@ for col in dfcats.itertuples():  # ugly code, but gets job done for now
 dfscores.to_csv('2016dataset_scores.csv')
 
 # Add up all those scores, to create summary scores
+use_normaliser = True
 dfsummary = pd.DataFrame([], index=dfscores.index)
 for cat in dfcats['Indicator'].unique():
     catlist = dfcats[dfcats['Indicator'] == cat].index.tolist()
+    normaliser = max(1, len(catlist))
     dfsummary[cat] = dfscores[catlist].sum(axis=1)
+    if use_normaliser:
+        dfsummary[cat] = dfsummary[cat] / normaliser
 dfsummary['total'] = dfsummary.sum(axis=1)
 dfsummary.to_csv('2016dataset_summary.csv')

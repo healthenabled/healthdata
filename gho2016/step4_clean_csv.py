@@ -176,4 +176,11 @@ for col in outcols:
         df[col] = df[col].str.strip()
         df[col].replace('N/A', '', inplace=True)
 
+# FIXIT: find a better way to do this
+# Clean up known problem cells
+# • Syria “Yes 75 19”
+# • Costa Rica “Yes 8 198”
+# • Iran “NaN” in policy_bigdata_private_note
+
+
 df[outcols].to_csv('2016dataset_clean.csv')
