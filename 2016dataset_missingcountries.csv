@@ -1,0 +1,117 @@
+,*Numerical code*,*   Country or area name*,*ISO ALPHA-3* *code*
+1,248,Åland Islands,ALA
+4,16,American Samoa,ASM
+5,20,Andorra,AND
+6,24,Angola,AGO
+7,660,Anguilla,AIA
+8,28,Antigua and Barbuda,ATG
+11,533,Aruba,ABW
+15,44,Bahamas,BHS
+18,52,Barbados,BRB
+21,84,Belize,BLZ
+23,60,Bermuda,BMU
+25,68,Bolivia (Plurinational State of),BOL
+26,535,"Bonaire, Sint Eustatius and Saba",BES
+29,76,Brazil,BRA
+30,92,British Virgin Islands,VGB
+31,96,Brunei Darussalam,BRN
+37,120,Cameroon,CMR
+39,136,Cayman Islands,CYM
+41,148,Chad,TCD
+42,830,Channel Islands,
+45,344,"China, Hong Kong Special Administrative Region",HKG
+46,446,"China, Macao Special Administrative Region",MAC
+49,178,Congo,COG
+50,184,Cook Islands,COK
+55,531,Curaçao,CUW
+59,180,Democratic Republic of the Congo,COD
+61,262,Djibouti,DJI
+62,212,Dominica,DMA
+64,218,Ecuador,ECU
+65,818,Egypt,EGY
+68,232,Eritrea,ERI
+71,234,Faeroe Islands,FRO
+72,238,Falkland Islands (Malvinas),FLK
+73,242,Fiji,FJI
+75,250,France,FRA
+76,254,French Guiana,GUF
+77,258,French Polynesia,PYF
+78,266,Gabon,GAB
+81,276,Germany,DEU
+83,292,Gibraltar,GIB
+85,304,Greenland,GRL
+86,308,Grenada,GRD
+87,312,Guadeloupe,GLP
+88,316,Guam,GUM
+90,831,Guernsey,GGY
+91,324,Guinea,GIN
+93,328,Guyana,GUY
+94,332,Haiti,HTI
+95,336,Holy See,VAT
+99,356,India,IND
+100,360,Indonesia,IDN
+104,833,Isle of Man,IMN
+109,832,Jersey,JEY
+114,414,Kuwait,KWT
+120,430,Liberia,LBR
+121,434,Libya,LBY
+122,438,Liechtenstein,LIE
+131,584,Marshall Islands,MHL
+132,474,Martinique,MTQ
+134,480,Mauritius,MUS
+135,175,Mayotte,MYT
+137,583,Micronesia (Federated States of),FSM
+138,492,Monaco,MCO
+141,500,Montserrat,MSR
+143,508,Mozambique,MOZ
+144,104,Myanmar,MMR
+145,516,Namibia,NAM
+146,520,Nauru,NRU
+147,524,Nepal,NPL
+149,540,New Caledonia,NCL
+151,558,Nicaragua,NIC
+153,566,Nigeria,NGA
+154,570,Niue,NIU
+155,574,Norfolk Island,NFK
+156,580,Northern Mariana Islands,MNP
+160,585,Palau,PLW
+162,598,Papua New Guinea,PNG
+166,612,Pitcairn,PCN
+169,630,Puerto Rico,PRI
+171,410,Republic of Korea,KOR
+173,638,Réunion,REU
+177,652,Saint Barthélemy,BLM
+178,654,Saint Helena,SHN
+179,659,Saint Kitts and Nevis,KNA
+180,662,Saint Lucia,LCA
+181,663,Saint Martin (French part),MAF
+182,666,Saint Pierre and Miquelon,SPM
+183,670,Saint Vincent and the Grenadines,VCT
+184,882,Samoa,WSM
+186,678,Sao Tome and Principe,STP
+187,680,Sark,
+188,682,Saudi Arabia,SAU
+192,694,Sierra Leone,SLE
+194,534,Sint Maarten (Dutch part),SXM
+195,703,Slovakia,SVK
+197,90,Solomon Islands,SLB
+202,144,Sri Lanka,LKA
+203,275,State of Palestine,PSE
+205,740,Suriname,SUR
+206,744,Svalbard and Jan Mayen Islands,SJM
+207,748,Swaziland,SWZ
+212,764,Thailand,THA
+213,807,The former Yugoslav Republic of Macedonia,MKD
+215,768,Togo,TGO
+216,772,Tokelau,TKL
+217,776,Tonga,TON
+222,796,Turks and Caicos Islands,TCA
+223,798,Tuvalu,TUV
+226,784,United Arab Emirates,ARE
+228,834,United Republic of Tanzania,TZA
+230,850,United States Virgin Islands,VIR
+233,548,Vanuatu,VUT
+234,862,Venezuela (Bolivarian Republic of),VEN
+236,876,Wallis and Futuna Islands,WLF
+237,732,Western Sahara,ESH
+238,887,Yemen,YEM
