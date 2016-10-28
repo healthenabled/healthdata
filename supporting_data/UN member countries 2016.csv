@@ -1,0 +1,194 @@
+Country,Joined UN,ISO3166
+Afghanistan,1946,AFG
+Albania,1955,ALB
+Algeria,1962,DZA
+Andorra,1993,AND
+Angola,1976,AGO
+Antigua and Barbuda,1981,ATG
+Argentina,1945,ARG
+Armenia,1992,ARM
+Australia,1945,AUS
+Austria,1955,AUT
+Azerbaijan,1992,AZE
+Bahamas,1973,BHS
+Bahrain,1971,BHR
+Bangladesh,1974,BGD
+Barbados,1966,BRB
+Belarus,1945,BLR
+Belgium,1945,BEL
+Belize,1981,BLZ
+Benin,1960,BEN
+Bhutan,1971,BTN
+Bolivia,1945,BOL
+Bosnia and Herzegovina,1992,BIH
+Botswana,1966,BWA
+Brazil,1945,BRA
+Brunei,1984,BRN
+Bulgaria,1955,BGR
+Burkina Faso,1960,BFA
+Burma (Myanmar),1948,MMR
+Burundi,1962,BDI
+C̫te d'Ivoire,1960,CIV
+Cambodia,1955,KHM
+Cameroon,1960,CMR
+Canada,1945,CAN
+Cape Verde,1975,CPV
+Central African Republic,1960,CAF
+Chad,1960,TCD
+Chile,1945,CHL
+China,1945,CHN
+Colombia,1945,COL
+Comoros,1975,COM
+"Congo, Dem. Rep. of",1960,COD
+"Congo, Rep. of",1960,COG
+Costa Rica,1945,CRI
+Croatia,1992,HRV
+Cuba,1945,CUB
+Cyprus,1960,CYP
+Czech Republic,1993,CZE
+Denmark,1945,DNK
+Djibouti,1977,DJI
+Dominica,1978,DMA
+Dominican Republic,1945,DOM
+East Timor,2002,TLS
+Ecuador,1945,ECU
+Egypt,1945,EGY
+El Salvador,1945,SLV
+Equatorial Guinea,1968,GNQ
+Eritrea,1993,ERI
+Estonia,1991,EST
+Ethiopia,1945,ETH
+Fiji,1970,FJI
+Finland,1955,FIN
+France,1945,FRA
+Gabon,1960,GAB
+Gambia,1965,GMB
+Georgia,1992,GEO
+Germany,1973,DEU
+Ghana,1957,GHA
+Greece,1945,GRC
+Grenada,1974,GRD
+Guatemala,1945,GTM
+Guinea,1958,GIN
+Guinea-Bissau,1974,GNB
+Guyana,1966,GUY
+Haiti,1945,HTI
+Honduras,1945,HND
+Hungary,1955,HUN
+Iceland,1946,ISL
+India,1945,IND
+Indonesia,1950,IDN
+Iran,1945,IRN
+Iraq,1945,IRQ
+Ireland,1955,IRL
+Israel,1949,ISR
+Italy,1955,ITA
+Jamaica,1962,JAM
+Japan,1956,JPN
+Jordan,1955,JOR
+Kazakhstan,1992,KAZ
+Kenya,1963,KEN
+Kiribati,1999,KIR
+"Korea, North",1991,PRK
+"Korea, South",1991,KOR
+Kuwait,1963,KWT
+Kyrgyzstan,1992,KGZ
+Laos,1955,LAO
+Latvia,1991,LVA
+Lebanon,1945,LBN
+Lesotho,1966,LSO
+Liberia,1945,LBR
+Libya,1955,LBY
+Liechtenstein,1990,LIE
+Lithuania,1991,LTU
+Luxembourg,1945,LUX
+Macedonia,1993,MKD
+Madagascar,1960,MDG
+Malawi,1964,MWI
+Malaysia,1957,MYS
+Maldives,1965,MDV
+Mali,1960,MLI
+Malta,1964,MLT
+Marshall Islands,1991,MHL
+Mauritania,1961,MRT
+Mauritius,1968,MUS
+Mexico,1945,MEX
+Micronesia,1991,FSM
+Moldova,1992,MDA
+Monaco,1993,MCO
+Mongolia,1961,MNG
+Montenegro,2006,MNE
+Morocco,1956,MAR
+Mozambique,1975,MOZ
+Namibia,1990,NAM
+Nauru,1999,NRU
+Nepal,1955,NPL
+Netherlands,1945,NLD
+New Zealand,1945,NZL
+Nicaragua,1945,NIC
+Niger,1960,NER
+Nigeria,1960,NGA
+Norway,1945,NOR
+Oman,1971,OMN
+Pakistan,1947,PAK
+Palau,1994,PLW
+Panama,1945,PAN
+Papua New Guinea,1975,PNG
+Paraguay,1945,PRY
+Peru,1945,PER
+Philippines,1945,PHL
+Poland,1945,POL
+Portugal,1955,PRT
+Qatar,1971,QAT
+Romania,1955,ROU
+Russia,1945,RUS
+Rwanda,1962,RWA
+Ṣo Tom̩ and Pr�_ncipe,1975,STP
+Samoa,1976,WSM
+San Marino,1992,SMR
+Saudi Arabia,1945,SAU
+Senegal,1960,SEN
+Serbia,2000,SRB
+Seychelles,1976,SYC
+Sierra Leone,1961,SLE
+Singapore,1965,SGP
+Slovakia,1993,SVK
+Slovenia,1992,SVN
+Solomon Islands,1978,SLB
+Somalia,1960,SOM
+South Africa,1945,ZAF
+South Sudan,2011,SSD
+Spain,1955,ESP
+Sri Lanka,1955,LKA
+St. Kitts and Nevis,1983,KNA
+St. Lucia,1979,LCA
+St. Vincent and the Grenadines,1980,VCT
+Sudan,1956,SDN
+Suriname,1975,SUR
+Swaziland,1968,SWZ
+Sweden,1946,SWE
+Switzerland,2002,CHE
+Syria,1945,SYR
+Tajikistan,1992,TJK
+Tanzania,1961,TZA
+Thailand,1946,THA
+Togo,1960,TGO
+Tonga,1999,TON
+Trinidad and Tobago,1962,TTO
+Tunisia,1956,TUN
+Turkey,1945,TUR
+Turkmenistan,1992,TKM
+Tuvalu,2000,TUV
+Uganda,1962,UGA
+Ukraine,1945,UKR
+United Arab Emirates,1971,ARE
+United Kingdom,1945,GBR
+United States,1945,USA
+Uruguay,1945,URY
+Uzbekistan,1992,UZB
+Vanuatu,1981,VUT
+Venezuela,1945,VEN
+Vietnam,1977,VNM
+Yemen,1947,YEM
+Zambia,1964,ZMB
+Zimbabwe,1980,ZWE

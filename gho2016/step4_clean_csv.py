@@ -176,11 +176,15 @@ for col in outcols:
         df[col] = df[col].str.strip()
         df[col].replace('N/A', '', inplace=True)
 
-# FIXIT: find a better way to do this
-# Clean up known problem cells
-# • Syria “Yes 75 19”
-# • Costa Rica “Yes 8 198”
-# • Iran “NaN” in policy_bigdata_private_note
+# Clean up known problem cells.  FIXIT: find a better way to do this
+# Syria "Yes 75 19" in policy_health because two "75"s in cell
+df.loc['Syrian Arab Republic', 'policy_health'] = 'Yes'
+df.loc['Syrian Arab Republic', 'policy_health_note'] = '1975'
+# Costa Rica "Yes 8 198" in policy_bigdata_private because two 8s in cell
+df.loc['Costa Rica', 'policy_bigdata_private'] = 'Yes'
+df.loc['Costa Rica', 'policy_bigdata_private_note'] = '1988'
+# Iran "NaN" in policy_bigdata_private_note
+df.loc['Iran  Islamic Republic of ', 'policy_bigdata_private_note'] = ''
 
 
 df[outcols].to_csv('2016dataset_clean.csv')

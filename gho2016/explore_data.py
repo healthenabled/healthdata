@@ -24,14 +24,34 @@ def explore_raw(rawfile='2016dataset_raw.csv'):
     return
 
 
-def get_missing_countries():
+def get_missing_countries(uselist=0):
+    masterlists = [('../supporting_data/UNSTATS list of countries.csv',
+                    '*ISO ALPHA-3* *code*'),
+                   ('../supporting_data/UN member countries 2016.csv',
+                    'ISO3166')]
+    master = masterlists[uselist]
     df1 = pd.read_csv('2016ghocountries.csv', header=None,
                       names=['code', 'name'])
-    df2 = pd.read_csv('../supporting_data/UNSTATS list of countries.csv')
+    df2 = pd.read_csv(master[0])
     v1 = df1['code'].str.lower().values
-    v2 = df2['*ISO ALPHA-3* *code*'].str.lower().values
+    v2 = df2[master[1]].str.lower().values
     missingcodes = set(v2) - set(v1)
-    missingcountries = df2[df2['*ISO ALPHA-3* *code*'].str.lower().isin(missingcodes)]
+    missingcountries = df2[df2[master[1]].str.lower().isin(missingcodes)]
     missingcountries.to_csv('2016dataset_missingcountries.csv')
-    print(missingcountries[['*   Country or area name*', '*ISO ALPHA-3* *code*']])
     return missingcountries
+
+
+def get_missing_values():
+    df = pd.read_csv('2016dataset_clean.csv')
+    nullcount = []
+    for col in df.columns:
+        nullcount.append([col, df[col].isnull().sum()])
+        # print('{}: {}'.format(col, df[col].isnull().sum()))
+    dfnulls = pd.DataFrame(nullcount, columns=['column', 'nulls'])
+    dfnulls.to_csv('2016dataset_columnnulls.csv')
+    
+    rownulls = pd.DataFrame(df.isnull().sum(axis=1), columns=['nulls'])
+    rownulls['country'] = df['meta_country']
+    rownulls.to_csv('2016dataset_rownulls.csv', columns=['country', 'nulls'])
+    return
+
