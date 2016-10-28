@@ -5,7 +5,9 @@ Pull set of PDFs from WHO country listing page
 import requests
 from bs4 import BeautifulSoup
 
-countrylisturl = 'http://www.who.int/goe/publications/atlas/2015/en/'
+year = '2015' # or '2013': this works too.
+
+countrylisturl = 'http://www.who.int/goe/publications/atlas/{}/en/'.format(year)
 html = requests.get(countrylisturl)
 
 soup = BeautifulSoup(html.text)
@@ -24,7 +26,7 @@ fout.close()
 # grab all the pdf files
 for li in countrylis:
     url = 'http://www.who.int' + li.a['href']
-    fout = open('countrydata/' + url.split('/')[-1], 'w')
+    fout = open(year + 'ghodata/' + url.split('/')[-1], 'w')
     print('Getting pdf from {}'.format(url))
     a = requests.get(url, stream=True)
     # Write out pdf in blocks

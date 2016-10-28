@@ -1,0 +1,166 @@
+48
+48
+eH
+ea
+lth
+ a
+nd
+ i
+nn
+ov
+at
+io
+n 
+in
+ w
+om
+en
+'s 
+a
+nd
+ c
+hi
+ld
+re
+n's
+ h
+ea
+lth
+ -
+ 2
+01
+3 
+su
+rv
+ey
+ 
+Guinea
+C
+o
+u
+n
+tr
+y 
+in
+d
+ic
+a
+to
+rs
+*
+eHealth	initiatives	–	national	overview
+eHealth supports major women’s and children’s health initiatives Yes
+Funding sources Public funding, Private funding, Donor funding
+Monitoring the status of women’s and children’s health
+An overview of the measurement of the 11 CoIA indicators by monitoring frequency and format
+Indicator measured Monitor Frequency 
+Format: Paper, 
+Electronic, or 
+Both
+Maternal mortality ratio Yes Every 5 years Both
+Under 5 child mortality with the proportion of newborn deaths Yes Every 5 years Both
+Children under 5 who are stunted Yes Every 5 years
+Met need for contraception Both
+Antenatal care coverage
+Prevention of mother-to-child HIV transmission (PMTCT)
+Skilled attendant at birth 
+Postnatal care for mothers and babies
+Exclusive breastfeeding for six months
+3 doses of the combined diphtheria, pertussis and tetanus vaccine
+Antibiotic treatment for pneumonia
+eHealth policy/strategy 
+Status of eHealth and women’s and children’s health policy/strategy
+National eHealth policy/strategy exists No
+Year adopted
+Implementation status
+Refers to the use of eHealth in women’s and children’s health policy/strategy No
+Special funding allocated for implementation No
+Women’s and children’s health
+National policy/strategy for women’s and children’s health exists Yes
+Policy/strategy refers to the use of eHealth, mHealth or social media No
+eHealth systems
+An overview of the types of eHealth systems in place, their purpose and level
+Electronic information system collects and reports births, deaths and causes of death data No
+Year introduced
+At least one electronic information system exists at the district level to collect and report health data Yes
+Resource tracking system in place to report total health expenditure by financing source, per capita Yes
+Type of resource tracking system Paper
+Resource tracking system level National level, Regional/District level, Local level
+Resource tracking system in place to report total reproductive, maternal, newborn, and child 
+health (RMNCH) expenditure by financing source, per capita
+Yes
+Type of resource tracking system Both
+Resource tracking system level National
+Population (000s) 11,451 Total health expenditure (%GDP) 6
+GNI per capita (PPP Int $) 970 ICT	Development	Index	rank 152
+Physician density (per 10 000 population) 0.10 Mobile-cellular subscriptions (% inhabitants) 41.75
+Nurse and midwife density (per 10 000 population) 0.04 Internet	users	(%	of	individuals) 1.5
+Hospital bed density (per 10 000 population) 3 Maternal	mortality	ratio	(per	100	000	live	births) 610
+Life expectancy at birth (years) 55 Infant	mortality	rate	(per	100	000	live	births) 34 [20-56]
+W
+HO
+ A
+fr
+ic
+a
+n 
+Re
+gi
+on
+49
+http://www.who.int/goe
+* Data source: www.who.int/goe/publications/cp_source2013
+** Inconsistent data
+Atlas of eHealth Country Profiles 
+Online safety for children
+Approaches taken by government to protect children in the online environment
+Government provides information and education to citizens on internet safety and literacy No
+Some initiatives are aimed specifically to protect children
+Safety tools and security technologies are required by law for schools, libraries and other public 
+places where children have Internet access
+No
+ISPs are legally mandated to provide online safety tools to protect children No
+Privacy	and	security	of	personal	and	health-related	data
+Legislation to protect women and children
+Privacy laws exist to protect citizens’ personal identifiable data irrespective of format (paper or digital) No
+Privacy laws exist to protect citizens’ health data held in digitized format in an Electronic 
+Medical Record (EMR) or Electronic Health Record (EHR)
+No
+Parental consent required for the creation of a child’s EMR/EHR
+Parental access to a child’s EMR/EHR is possible
+Correction of errors in a child’s EMR/EHR is possible
+Legislation exists enabling the sharing of EMR/EHR between health care entities within the same country No
+Parental consent is required 
+Legislation exists enabling the sharing of EMR/EHR between health care entities in other countries
+Parental consent is required 
+Legislation exists which grants a child the right to control over its EMR/EHR No
+From age (years)
+Social media
+Countries are recognizing the benefit of using social media for health
+Some health programmes use social media (eg. Facebook, Twitter, YouTube)  No
+ICT	training	
+Tertiary institutions offer ICT training for students of health sciences No
+Continuing education in ICT for health professionals No
+Internet health information quality 
+Approaches taken to ensure quality of health-related content on the Internet
+Government	intervention	- laws, regulations, quality directives or guidelines Yes
+Technology - filters and controls,Official approval - certification, accreditation, seals of 
+approval, or quality seals
+Yes
+Education programs - for consumers and professionals Yes
+Government	website	- providing education and information to information consumers Yes
+Dedicated website(s) - concerning women’s & children’s health No
+Possible	barriers	to	implementing	eHealth	services
+The most important barriers hindering the implementation of eHealth services
+Leadership,	governance	and	policy	- country policy or strategy does not include eHealth as an 
+approach to support women’s and children’s health
+Yes
+Legal - lack of legal frameworks to support implementation of eHealth services Yes
+Infrastructure - not yet adequate, accessible, or cost-effective to support desired services Yes
+Financial - limited or no reimbursement by insurance companies for services; business models 
+not yet developed for broad and sustainable eHealth delivery
+Yes
+G
+ui
+ne
+a

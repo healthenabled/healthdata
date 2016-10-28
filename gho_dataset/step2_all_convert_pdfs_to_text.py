@@ -2,10 +2,11 @@ import subprocess
 import os
 import glob
 
+year = '2015'
 
-datadir = '2016ghodata'
+datadir = year + 'ghodata'
 pdffiles = glob.glob(os.path.join(datadir, '*.pdf'))
-extractstr = 'java -jar PDFconversionTests/pdfbox-app-2.0.3.jar ExtractText {} {}/{}.txt'
+extractstr = 'java -jar ../PDFconversionTests/pdfbox-app-2.0.3.jar ExtractText {} {}/{}.txt'
 
 for filepath in pdffiles:
     fileroot = filepath[len(datadir) + 1:-4]

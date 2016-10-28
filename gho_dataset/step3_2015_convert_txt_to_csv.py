@@ -41,16 +41,16 @@ headers = ['meta_country', 'policy_health', 'policy_ehealth', 'policy_his',
 
 keepset = '[^a-zA-Z0-9\.{}=\-/]'
 
-datadir = '2016ghodata'
+datadir = '2015ghodata'
 txtfiles = glob.glob(os.path.join(datadir, '*.txt'))
-fin = open('PDFconversionTests/pdfbox_afg_template.txt', 'r')
+fin = open('2015_gho_pdfboxtemplate.txt', 'r')
 ftemplate = fin.read()
 fin.close()
 #ftemplate = re.sub('\n', '=', ftemplate)
 ftemplate = re.sub(keepset, ' ', ftemplate)
 ftemplate = ftemplate.replace('{}', '(.*)')
 
-fout = open('2016dataset_raw.csv', 'w')
+fout = open('2015dataset_raw.csv', 'w')
 cout = csv.writer(fout, quoting=csv.QUOTE_ALL)
 cout.writerow(headers)
 
